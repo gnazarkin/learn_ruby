@@ -3,6 +3,6 @@ def hello
 end 
 
 def greet(name)
-	return "Hello, #{name}"
+	return "Hello,git #{name}"
 end
 
